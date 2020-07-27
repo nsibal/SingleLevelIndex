@@ -1,4 +1,4 @@
-# SingleLevelIndex
+# Single Level Index on Text Files
 
 - Java program to create a single level index.
 - This program is written as the submission of home work.
